@@ -1,0 +1,47 @@
+# Folder yang dibuat ulang otomatis oleh Unity
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
+/[Mm]emoryCaptures/
+/[Rr]ecordings/
+
+# Cadangan scene otomatis setelah editor crash
+/[Aa]ssets/_Recovery/
+/[Aa]ssets/_Recovery.meta
+
+# File IDE / solusi yang dibuat otomatis
+.vs/
+.vscode/
+.idea/
+*.csproj
+*.sln
+*.slnx
+*.suo
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+*.pidb.meta
+*.pdb.meta
+*.mdb.meta
+
+# Hasil build
+*.apk
+*.aab
+*.unitypackage
+*.app
+crashlytics-build.properties
+
+# Sistem operasi
+.DS_Store
+Thumbs.db
+Desktop.ini
