@@ -76,7 +76,6 @@ Hasilnya ada di folder `Build/Windows/`.
 | **1 – 9** / klik slot | Pegang benih atau buah dari tas |
 | **E** / klik plot | Tanam, siram, atau panen di plot terdekat |
 | **Tab** / ikon pot | Panel sisa waktu panen |
-| **F1** | Panel admin (benih gratis, tumbuhkan semua, +1000 skor, atur waktu & cuaca) |
 
 1. Mulai dengan **skor 20** (skor = uang).
 2. Berdiri di alas **rak BENIH** → toko terbuka → beli benih.
