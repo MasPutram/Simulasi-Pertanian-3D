@@ -93,6 +93,7 @@ public class PlotManager : MonoBehaviour
 
     public bool Plant(PlantData plant)
     {
+        if (!Application.isPlaying) return false; // jangan sampai tanaman tersimpan ke scene saat di Editor
         if (state != PlotState.Empty) return false;
 
         currentPlant = plant;
